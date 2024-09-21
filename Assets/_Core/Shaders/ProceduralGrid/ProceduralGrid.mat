@@ -53,7 +53,7 @@ Material:
     - _Grid_Thickness: 0.015
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Transparent: 1
+    - _Transparent: 0
     m_Colors:
     - _Background_Color: {r: 0, g: 0, b: 0, a: 1}
     - _Cell_Size: {r: 1, g: 1, b: 0, a: 0}
