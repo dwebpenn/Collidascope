@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8394d418d910b1240aeb1151d5f7f6bd, type: 3}
+  m_Name: Forrest
+  m_EditorClassIdentifier: 
+  includedAudios:
+  - name: Vegetation - Tree Leaves with Wind
+    clip: {fileID: 8300000, guid: c2fe6315b1af8c641aaab8ab140fa1d8, type: 3}
+    volume: 0.14
+    pitch: 1
+    priority: 128
+    randomizePlay: 0
+    playTime: {x: 10, y: 30}
+    randomizeStop: 0
+    stopTime: {x: 0, y: 0}
+  - name: Vegetation - Grass and Wind
+    clip: {fileID: 8300000, guid: ae6803d4a5dfba34d844985ce58e1f07, type: 3}
+    volume: 0.146
+    pitch: 1
+    priority: 128
+    randomizePlay: 0
+    playTime: {x: 10, y: 30}
+    randomizeStop: 0
+    stopTime: {x: 0, y: 0}
+  - name: Vegetation - Tree Leaves
+    clip: {fileID: 8300000, guid: 05e68027bd4986647805fa0a9a77197a, type: 3}
+    volume: 0.18
+    pitch: 1
+    priority: 128
+    randomizePlay: 0
+    playTime: {x: 10, y: 30}
+    randomizeStop: 0
+    stopTime: {x: 0, y: 0}
+  - name: Nature - Birds Chirping
+    clip: {fileID: 8300000, guid: dff2952e02c44f84d867c07b755e37ef, type: 3}
+    volume: 0.268
+    pitch: 1
+    priority: 128
+    randomizePlay: 0
+    playTime: {x: 10, y: 30}
+    randomizeStop: 0
+    stopTime: {x: 0, y: 0}
+  - name: Ambience - Good Day
+    clip: {fileID: 8300000, guid: 45fe84c0b3c826642b3e0211278cb1e9, type: 3}
+    volume: 0.074
+    pitch: 1
+    priority: 128
+    randomizePlay: 1
+    playTime: {x: 10, y: 30}
+    randomizeStop: 0
+    stopTime: {x: 0, y: 0}
